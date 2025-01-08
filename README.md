@@ -1,5 +1,5 @@
 # Weather Reporting System using IOT
-![1](https://github.com/user-attachments/assets/d56f62bf-c178-476b-be15-badaffba3314)
-![2](https://github.com/user-attachments/assets/4485e06c-88e9-452c-ba26-7079d17849a5)
-![3](https://github.com/user-attachments/assets/3610ced5-eeb1-4fe4-abd0-8e8562bf652b)
-![4](https://github.com/user-attachments/assets/c8e64868-b5a4-4f9f-940d-28e5931f2380)
+![1](https://github.com/user-attachments/assets/0b98fe76-1cb6-41f8-8f9e-fcba51486cfe)
+![2](https://github.com/user-attachments/assets/bdfd047a-2993-4c01-aa68-4b148b20e7bc)
+![3](https://github.com/user-attachments/assets/a22c32d7-d207-4081-bed6-65195fe81c2b)
+![4](https://github.com/user-attachments/assets/85459d6f-ff8c-491a-822c-1b6487d1558a)
